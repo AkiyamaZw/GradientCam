@@ -8,8 +8,6 @@ This repository is a functional implements of the GradCAM with both pytorch and 
 # requirements
 This repo was finished with the python lib below. 
 > python 3.6.4
-
-> tensorflow 1.13
-
-> pytorch 1.0
+  tensorflow 1.13
+  pytorch 1.0
 
